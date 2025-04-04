@@ -1,11 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy Nico</a> 👋</h1>
+  
+<img src="FotosReadme/Banner.jpg" width="600">
 </div>
 
-
-
-
-## Sobre mi
+## Sobre mi 👀
 
 - ⭐ **Nunca dijeron que el camino sería fácil**
 - 🤖 **Aficionado de la Ciberseguridad**
@@ -19,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Escaneo de Vulnerabilidades con Nessus</h3>
 <div align="center">
-<a href="https://github.com/Naickoo/Informe-Escaneo-Nessus" target="_blank"><img src="Nessus.png" width="400" alt="Escaneo Vulnerabilidades"></a>
+<a href="https://github.com/Naickoo/Informe-Escaneo-Nessus" target="_blank"><img src="FotosReadme/Nessus.png" width="700" alt="Escaneo Vulnerabilidades"></a>
 <p>
 <a href="https://github.com/Naickoo/Informe-Escaneo-Nessus" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -34,7 +33,7 @@
                <br>
 <h3 align="center">Generador de contraseñas seguras 🔐</h3>
 <div align="center">                                       
-<a href="https://github.com/Naickoo/generador-contrasenas-seguras" target="_blank"><img src="FotosReadme/ContraseñasSeguras.jpg" width="300" alt="Generador de contraseñas seguras"></a>
+<a href="https://github.com/Naickoo/generador-contrasenas-seguras" target="_blank"><img src="FotosReadme/ContraseñasSeguras.jpg" width="350" alt="Generador de contraseñas seguras"></a>
 <br>
 <p>
 <a href="https://github.com/Naickoo/generador-contrasenas-seguras" target="_blank">
@@ -50,24 +49,21 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center"></h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="" target="_blank"><img src="" width="400" alt=""></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p></p>
 </div>
                                                                                      
 </td>       
 <!--
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center"></h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
