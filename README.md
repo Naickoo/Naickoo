@@ -34,7 +34,7 @@
                <br>
 <h3 align="center">Generador de contraseñas seguras 🔐</h3>
 <div align="center">                                       
-<a href="https://github.com/Naickoo/generador-contrasenas-seguras" target="_blank"><img src="ContraseñasSeguras.jpg" width="400" alt="Generador de contraseñas seguras"></a>
+<a href="https://github.com/Naickoo/generador-contrasenas-seguras" target="_blank"><img src="FotosReadme/ContraseñasSeguras.jpg" width="300" alt="Generador de contraseñas seguras"></a>
 <br>
 <p>
 <a href="https://github.com/Naickoo/generador-contrasenas-seguras" target="_blank">
