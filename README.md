@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">Escaneo de Vulnerabilidades con Nessus</h3>
 <div align="center">
-<a href="https://github.com/Naickoo/Informe-Escaneo-Nessus" target="_blank"><img src="https://imgur.com/a/nessus-xz1nSho.png" width="400" alt="Escaneo Vulnerabilidades"></a>
+<a href="https://github.com/Naickoo/Informe-Escaneo-Nessus" target="_blank"><img src="Nessus.png" width="400" alt="Escaneo Vulnerabilidades"></a>
 <p>
 <a href="https://github.com/Naickoo/Informe-Escaneo-Nessus" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
