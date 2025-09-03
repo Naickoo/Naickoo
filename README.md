@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Nico</a> 👋</h1>
   
-<img src="FotosReadme/Banner.jpg" width="600">
+
 </div>
 
 ## Sobre mi 👀
